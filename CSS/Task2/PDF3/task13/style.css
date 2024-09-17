@@ -1,0 +1,44 @@
+.navbar{
+    background-color: rgb(119, 89, 49);
+    display: inline-flex;
+    width: 100%;
+    border-radius: 8px;
+    justify-content: space-around;
+}
+
+pnavbar{
+    margin: 10px;
+}
+
+.title{
+    text-align: center;
+    color: red;
+
+}
+
+.titleblcak{
+    color: black;
+    margin: -15px;
+    font-size: small;
+    margin-bottom: 10px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.main{
+    background-image: url(images/food.png);
+    
+}
+
+.button{
+    border-radius: 20px;
+    background-color: yellow;
+    
+}
+
+.box1{
+    box-shadow: 0px 0px 1px ;
+}

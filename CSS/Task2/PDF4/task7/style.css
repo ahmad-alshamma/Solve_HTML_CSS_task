@@ -1,0 +1,37 @@
+div{
+    color: white;
+    width: 100px;
+    height: 75px;
+    border-radius: 10px;
+    position: absolute;
+    padding: 5px;
+    
+}
+
+.image1{
+   
+    z-index: 5;
+}
+
+.image2{
+   
+    z-index: 2;
+    left: 25px;
+    top: 25px;
+
+}
+
+.image3{
+    
+    z-index: 3;
+    left: 40px;
+    top: 45px;
+}
+
+.image4{
+    
+    z-index: 4;
+    left: 55px;
+    top: 60px;
+
+}

@@ -1,0 +1,64 @@
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid gold;
+    color: white;
+    height: 400px;
+}
+
+.div{
+    padding: 5px;
+    height: fit-content;
+    font-size: xx-large;
+
+}
+
+#div1{
+    background-color: green;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+#div2{
+    background-color: blue;
+}
+
+#div3{
+    background-color: purple;
+}
+
+#div4{
+    background-color: rgb(73, 73, 111);
+    font-size: xxx-large;
+    height: 390px;
+}
+
+#div5{
+    background-color: #808022;
+    margin-top: 200px;
+    font-size: small;
+}
+
+#div6{
+    background-color: orange;
+}
+
+#div7{
+    background-color: red;
+}
+
+#div8{
+    background-color: gray;
+}
+
+#div9{
+    background-color:rgb(66, 114, 66) ;
+}
+
+#div10{
+    background-color: rgb(9, 43, 9);
+    margin-top: auto;
+
+}

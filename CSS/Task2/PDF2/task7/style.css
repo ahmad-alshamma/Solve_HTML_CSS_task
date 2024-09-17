@@ -1,0 +1,36 @@
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.background{
+    background-color: rgb(126, 171, 126);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+
+.shadow{
+    text-shadow: 1px 1px 1px black;
+    color: pink;
+    text-transform: uppercase;
+}
+
+.line{
+    color: orange;
+    text-decoration:line-through;
+    text-align: right;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.yellow{
+    color: rgb(221, 221, 100);
+    text-decoration: underline red;
+    margin-left: 20px ;
+}

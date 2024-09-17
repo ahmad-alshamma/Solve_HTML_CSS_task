@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.purble{
+    background-color: purple;
+}
+
+.red{
+    background-color: red;
+}
+
+.big{
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.border{
+    display: inline;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 5px;
+}

@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.end{
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+}
+
+.last{
+    position: absolute;
+    right: 75px;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    background-color: aquamarine;
+    display: flex;
+    width: 99%;
+    height: 30px;
+    gap: 10px;
+    justify-content: flex-start;
+    align-items: center;
+}

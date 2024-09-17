@@ -1,0 +1,16 @@
+body{
+    background-color: purple;
+
+}
+
+.parent{
+    display: flex;
+}
+
+.parent>div{
+    background-color: azure;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    justify-content: space-around;
+}

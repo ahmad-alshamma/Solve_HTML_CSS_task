@@ -1,0 +1,14 @@
+nav{
+    background-color: antiquewhite;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+
+nav>div {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 15px;
+    padding-top: 15px;
+    
+}

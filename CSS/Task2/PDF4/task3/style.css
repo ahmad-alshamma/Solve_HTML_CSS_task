@@ -1,0 +1,27 @@
+div{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+}
+
+.absolute1{
+    background-color: pink;
+    top:0;
+}
+
+.absolute2{
+    background-color: blue;
+    right: 0;
+}
+
+.absolute3{
+    background-color: green;
+    left: 0;
+    bottom: 0;
+}
+
+.absolute4{
+    background-color: rgb(228, 228, 54);
+    bottom: 0;
+    right: 0;
+}

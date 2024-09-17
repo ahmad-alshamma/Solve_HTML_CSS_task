@@ -1,0 +1,8 @@
+.border-image{
+    padding: 15px;
+    border: 10px solid transparent;
+    border-image: url(images/border2.png) 30 round;
+    text-align: center;
+    margin: 20%;
+    
+}

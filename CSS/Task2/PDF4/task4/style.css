@@ -1,0 +1,43 @@
+/* .parent{
+    width: calc(100%/4);
+    height: 500px;
+    position: relative;
+    border-radius: 5px;
+    background-color: #eae9e9;
+    display: flex;
+    justify-content: space-around;
+} */
+
+ body{
+    background-color: rgb(215, 215, 215); 
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-around; */
+} 
+
+.parent{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin: 350px;
+
+}
+
+.child{
+    background-color: red;
+    color: white;
+    margin: 5px;
+    padding: 50px;
+    border-radius: 5px;
+    
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+#static{
+    position: relative;
+    top: 75px;
+    left: 50px;
+}

@@ -1,0 +1,42 @@
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: green;
+}
+
+.sky-color{
+    color: skyblue;
+    
+}
+
+#back-color{
+    background-color: aqua;
+    font-weight: bold;
+    color: rgb(88, 88, 15);
+}
+
+.div1{
+    background-color: aquamarine;
+}
+
+.red-div{
+    color: red;
+}
+
+.blue-div{
+    color: blue;
+}
+
+.div2{
+    background-color: pink;
+    text-align: center;
+    color: red;
+}
+
+.blue-div2{
+    color: blue;
+}
+
+footer{
+    color: blue;
+}

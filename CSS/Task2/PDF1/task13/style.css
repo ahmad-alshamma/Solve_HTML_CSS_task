@@ -1,0 +1,14 @@
+.Registration{
+    color: red;
+    background-color: bisque;
+    font-size: x-large;
+}
+
+tr{
+    background-color: rgb(0, 183, 255);
+}
+
+.button{
+    margin: 10px;
+    padding: 0 10px 0 10px;
+}

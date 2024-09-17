@@ -1,0 +1,56 @@
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 5px solid gold;
+    color: white;
+}
+
+.div{
+    padding: 5px;
+    font-size: xx-large;
+
+}
+
+#div1{
+    background-color: green;
+}
+
+#div2{
+    background-color: blue;
+}
+
+#div3{
+    background-color: purple;
+}
+
+#div4{
+    background-color: rgb(73, 73, 111);
+}
+
+#div5{
+    background-color: #808022;
+}
+
+#div6{
+    background-color: orange;
+}
+
+#div7{
+    background-color: red;
+}
+
+#div8{
+    background-color: gray;
+}
+
+#div9{
+    background-color:rgb(66, 114, 66) ;
+}
+
+#div10{
+    background-color: rgb(9, 43, 9);
+
+}

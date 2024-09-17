@@ -1,0 +1,6 @@
+body {
+    background-image: url(images/picture1.jpg) , url(images/picture2.jpg);
+    background-size: 30%;
+    background-repeat: repeat-y , repeat-x;
+    color: white;
+}

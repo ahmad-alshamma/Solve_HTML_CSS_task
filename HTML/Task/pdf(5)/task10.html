@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task10</title>
+</head>
+<body>
+    <main>
+        <section>
+            <form action="submit" method="post">
+            <table border="1">
+                <tr>
+                    <th colspan="3">Registration Form</th>
+                </tr>
+                <tr>
+                    <td>Enter name</td>
+                    <td><input type="text"></td>
+                    
+                </tr>
+                <tr>
+                    <td>Enter password</td>
+                    <td> <input type="password" name="password"></td>
+                </tr>
+
+                <tr>
+                    <td>Enter Address</td>
+                    <td><textarea name="address"></textarea></td>
+                </tr>
+                <tr>
+                    <td rowspan="1"> Select Game</td>
+                    <td rowspan="1">
+                        <input type="checkbox" name="Hockey" id="Hockey"> 
+                        <label for="Hockey">Hockey</label> <br>
+
+                        <input type="checkbox" name="Football" id="Football"> 
+                        <label for="Football">Football</label><br>
+
+                        <input type="checkbox" name="Badminton" id="Badminton"> 
+                        <label for="Badminton">Badminton</label><br>
+
+                        <input type="checkbox" name="Cricket" id="Cricket"> 
+                        <label for="Cricket">Cricket</label><br>
+
+                        <input type="checkbox" name="volleyball" id="volleyball">
+                        <label for="volleyball">volleyball</label>
+   
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>
+                        <input type="radio" name="Gender" id="gender">
+                        <label for="gender">Male</label>
+
+                        <input type="radio" name="Gender" id="gender">
+                        <label for="gender">Female</label>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td>Select ur age</td>
+                    <td><select name="age" id="age"><option value="20">20</option></select></td>
+                </tr>
+
+                <tr>
+                    <td>Select Photo</td>
+                    <td>
+                        <input type="file" name="file">
+                       
+                    </td>
+
+                    <tr>
+                        <td colspan="2">
+                            <input type="button" name="clickme" value="Click me">
+                            <input type="reset" name="reset"> <br>
+                            <input type="submit">
+                        </td>
+                    </tr>
+
+                </tr>
+
+               
+            </table>
+        </form>
+        </section>
+    </main>
+</body>
+</html>

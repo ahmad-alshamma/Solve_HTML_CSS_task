@@ -1,0 +1,27 @@
+h1{
+    padding-left: 10px;
+}
+
+.box{
+    background-color: antiquewhite;
+    border: solid brown;
+    width: 400px;
+   
+}
+
+.bord{
+    margin: 10px;
+    border: solid 5px brown;
+    width: 310px;
+    height: 100px;
+}
+
+.subbox{
+    margin: 10px;
+    border: dashed 5px burlywood;
+    padding: 5px 5px;
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+    overflow: auto ;
+}

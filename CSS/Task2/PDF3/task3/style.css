@@ -1,0 +1,17 @@
+.ridge{
+    border: 2px ridge white;
+    width: fit-content;
+    padding-right: 62px;
+}
+
+.solid{
+    border: 2px solid black;
+    width: fit-content;
+    padding-right: 62px;
+}
+
+.double{
+    border: 2px double black;
+    width: fit-content;
+    padding-right: 50px;
+}

@@ -1,0 +1,27 @@
+div{
+    background-color: red;
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:x-large ;
+    font-weight: bold;
+}
+
+.opacity100{
+  
+    opacity: 100%;
+}
+
+.opacity50{
+  
+    opacity:50%
+}
+
+.opacity25{
+  
+    opacity: 25%;
+}
+
+.opacity0{
+  
+    opacity: 10%;
+}

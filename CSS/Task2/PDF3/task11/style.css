@@ -1,0 +1,42 @@
+.one{
+    width: 40%;
+    height: 100px;
+    border-style: dashed solid dotted;
+    
+}
+
+.two{
+    width: 40%;
+    height: 100px;
+    border-style: solid solid dashed dotted;
+    margin: 10px 0;
+}
+
+.three{
+    width: 40%;
+    height: 100px;
+    border-style: dotted;
+    margin: 10px 0;
+}
+
+.four{
+    width: 40%;
+    height: 100px;
+    border: solid;
+    margin: 10px 0;
+}
+
+.five{
+    width: 40%;
+    height: 100px;
+    border: solid blue;
+    margin: 10px 0;
+}
+
+.six{
+    width: 40%;
+    height: 100px;
+    border-style: solid solid dotted ;
+    border-color: green blue green green;
+    
+}

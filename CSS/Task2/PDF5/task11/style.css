@@ -1,0 +1,49 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 400px;
+    padding: 10px;
+    row-gap: 5px;
+    column-gap: 5px;
+    
+}
+
+.grid div{
+    background-color: #dac7c7;
+}
+
+.four{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: #b25252;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+.four div{
+    padding: 5px;
+    background-color: rgb(158, 153, 153);
+}
+
+.twov{
+    display: grid;
+    row-gap: 5px;
+}
+
+.twov div{
+    background-color: rgb(158, 153, 153);
+}
+
+.twoh {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 5px;
+}
+
+.twoh div{
+    background-color: rgb(158, 153, 153);
+}
+
+
+
+

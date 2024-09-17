@@ -1,0 +1,10 @@
+.back-color{
+    background-color: blue;
+    color: white;
+}
+
+.back-image{
+    background-image: url(images/background-image.jpg);
+    color: white;
+    padding: 20px;
+}
