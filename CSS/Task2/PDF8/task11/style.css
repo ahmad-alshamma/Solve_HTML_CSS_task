@@ -1,0 +1,23 @@
+.ahmad{
+    background-color: lightblue;
+    padding: 0px 0px 0px 30px;
+    width:800px;
+    height: 600px;
+}
+
+.one{
+    width: 400px;
+    height: 400px;
+}
+
+@media (max-width:500px){
+    .ahmad{
+        background-color: white;
+    }
+}
+
+@media (max-width:500px){
+    .one{
+        width: 100px;
+    }
+}

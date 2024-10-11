@@ -1,0 +1,18 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.ahmad{
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    height: 100px;
+}
+
+@media (max-width:800px){
+    .ahmad {
+        grid-template-columns: auto;
+        grid-template-rows: 200PX 200PX 200PX;
+        height: 100PX;
+    }
+}

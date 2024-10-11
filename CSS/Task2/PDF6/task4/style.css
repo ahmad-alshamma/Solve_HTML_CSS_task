@@ -1,0 +1,28 @@
+body {
+    margin: 5% 20%;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+}
+
+.container-image {
+    position: relative;
+}
+
+.child-text {
+    position: absolute;
+    background-color: rgb(153, 126, 126);
+    top: -19px;
+    left: 0;
+}
+
+.child-text2 {
+    position: absolute;
+    background-color: rgb(153, 126, 126);
+    top: -18px;
+    left: 2;
+}

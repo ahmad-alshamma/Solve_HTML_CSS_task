@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.picture{
+    background-image: url(image/images.jfif);
+    width: 400px;
+    height: 300px;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+
+@media (min-width:600px) and (max-width:1400px){
+    .picture {
+        background-image: url(image/digital_camera_photo-1080x675.jpg);
+        width: 300px;
+        height: 400px;
+    }
+}

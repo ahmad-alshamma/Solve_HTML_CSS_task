@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#buttery {
+  border: solid 5px;
+  border-radius: 5px;
+  width: 120px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  animation-name: buttery;
+  animation-duration: 5s;
+}
+
+@keyframes buttery {
+  0% {
+    background-color: #ff0000;
+    width: 0;
+  }
+
+  100% {
+    background-color: green;
+    width: 100px;
+  }
+}
